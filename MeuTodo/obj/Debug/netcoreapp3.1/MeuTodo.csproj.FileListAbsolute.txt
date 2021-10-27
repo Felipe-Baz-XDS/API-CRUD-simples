@@ -1,0 +1,134 @@
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/appsettings.json
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/MeuTodo
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/MeuTodo.deps.json
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/MeuTodo.runtimeconfig.json
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/MeuTodo.runtimeconfig.dev.json
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/MeuTodo.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/MeuTodo.pdb
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Humanizer.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/home/felipe/Desktop/balta.io/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.csprojAssemblyReference.cache
+/home/felipe/Desktop/balta.io/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.AssemblyInfoInputs.cache
+/home/felipe/Desktop/balta.io/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.AssemblyInfo.cs
+/home/felipe/Desktop/balta.io/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.csproj.CoreCompileInputs.cache
+/home/felipe/Desktop/balta.io/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.MvcApplicationPartsAssemblyInfo.cache
+/home/felipe/Desktop/balta.io/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.RazorTargetAssemblyInfo.cache
+/home/felipe/Desktop/balta.io/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.csproj.CopyComplete
+/home/felipe/Desktop/balta.io/MeuTodo/obj/Debug/netcoreapp3.1/staticwebassets/MeuTodo.StaticWebAssets.Manifest.cache
+/home/felipe/Desktop/balta.io/MeuTodo/obj/Debug/netcoreapp3.1/staticwebassets/MeuTodo.StaticWebAssets.xml
+/home/felipe/Desktop/balta.io/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.dll
+/home/felipe/Desktop/balta.io/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.pdb
+/home/felipe/Desktop/balta.io/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.genruntimeconfig.cache
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/felipe/Desktop/balta.io/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.MvcApplicationPartsAssemblyInfo.cs
+/home/felipe/Desktop/balta.io/MeuTodo/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Annotations.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/appsettings.json
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/MeuTodo
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/MeuTodo.deps.json
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/MeuTodo.runtimeconfig.json
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/MeuTodo.runtimeconfig.dev.json
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/MeuTodo.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/MeuTodo.pdb
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Humanizer.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Annotations.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.csprojAssemblyReference.cache
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.AssemblyInfoInputs.cache
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.AssemblyInfo.cs
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.csproj.CoreCompileInputs.cache
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.MvcApplicationPartsAssemblyInfo.cs
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.MvcApplicationPartsAssemblyInfo.cache
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.RazorTargetAssemblyInfo.cache
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.csproj.CopyComplete
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/obj/Debug/netcoreapp3.1/staticwebassets/MeuTodo.StaticWebAssets.Manifest.cache
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/obj/Debug/netcoreapp3.1/staticwebassets/MeuTodo.StaticWebAssets.xml
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.dll
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.pdb
+/home/felipe/Desktop/balta.io/API CRUD simples/MeuTodo/obj/Debug/netcoreapp3.1/MeuTodo.genruntimeconfig.cache
