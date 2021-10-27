@@ -4,21 +4,22 @@ using System.Threading.Tasks;
 using MeuTodo.Data;
 using MeuTodo.Models;
 using MeuTodo.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Swashbuckle.AspNetCore.Annotations;
 
 namespace MeuTodo.Controllers
 {
+    [Authorize]
     [ApiController]
-    [Route(template:"v1")]
+    [Route(template:"v1/[controller]")]
     public class TodoController : ControllerBase
     {
 
         [HttpGet]
         [SwaggerOperation(Summary="Mostra a Lista de TODO")]      
         [ProducesResponseType(typeof(List<Todo>), 200)]
-        [Route(template:"todos")]
         public async Task<IActionResult> GetAsync(
             [FromServices] AppDbContext context)
         {
@@ -31,7 +32,7 @@ namespace MeuTodo.Controllers
         
         [HttpGet]
         [SwaggerOperation(Summary="Mostra a 1 todo escolhido pelo Id")]  
-        [Route(template:"todos/{id}")]
+        [Route(template:"{id}")]
         public async Task<IActionResult> GetByIdAsync(
             [FromServices] AppDbContext context,
             [FromRoute] int id)
@@ -48,7 +49,6 @@ namespace MeuTodo.Controllers
 
         [HttpPost]
         [SwaggerOperation(Summary="Adiciona TODO")]  
-        [Route(template:"todos")]
         public async Task<IActionResult> PostAsync(
             [FromServices] AppDbContext context,
             [FromBody]CreateTodoViewModel model)
@@ -76,7 +76,7 @@ namespace MeuTodo.Controllers
 
         [HttpPut]
         [SwaggerOperation(Summary="Edita TODO")]  
-        [Route(template:"todos/{id}")]
+        [Route(template:"{id}")]
         public async Task<IActionResult> PutAsync(
             [FromServices] AppDbContext context,
             [FromBody]CreateTodoViewModel model,
@@ -109,7 +109,7 @@ namespace MeuTodo.Controllers
 
         [HttpDelete]
         [SwaggerOperation(Summary="Deleta TODO")]  
-        [Route(template:"todos/{id}")]
+        [Route(template:"{id}")]
         public async Task<IActionResult> DeleteAsync(
             [FromServices] AppDbContext context,
             [FromRoute] int id)
